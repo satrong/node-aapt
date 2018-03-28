@@ -40,7 +40,9 @@ In the console output you will see something like this:
 ```js
 { packageName: 'com.example.app',
   versionCode: '12',
-  versionName: '1.2.3' }  
+  versionName: '1.2.3',
+  label: 'app name',
+  icon: 'icon name' }  
 ```
 
 # API
